@@ -221,6 +221,7 @@ comment {23 : 2 , }
 commscoordinator {23 : 1 , } 
 communications {23 : 5 , } 
 contact {23 : 3 , } 
+contactus {23 : 1 , } 
 content {23 : 1 , } 
 contests {23 : 1 , } 
 cookieDomain {23 : 2 , } 
@@ -317,7 +318,7 @@ modules {23 : 26 , }
 more {23 : 1 , } 
 moving {23 : 1 , } 
 myconcordia {23 : 1 , } 
-n {23 : 460 , } 
+n {23 : 332 , } 
 nAfter {23 : 1 , } 
 nNot {23 : 1 , } 
 nSend {23 : 1 , } 
@@ -390,7 +391,7 @@ style {23 : 4 , }
 stylesheet {23 : 1 , } 
 submissions {23 : 1 , } 
 system {23 : 8 , } 
-t {23 : 158 , } 
+t {23 : 2 , } 
 term {23 : 1 , } 
 than {23 : 1 , } 
 that {23 : 3 , } 
@@ -432,7 +433,7 @@ workflow_admin_ui {23 : 2 , }
 write {23 : 2 , } 
 www {23 : 2 , } 
 x3C {23 : 2 , } 
-xa0 {23 : 7 , } 
+xa0 {23 : 8 , } 
 xa01455 {23 : 1 , } 
 xa0514 {23 : 1 , } 
 xa07141 {23 : 1 , } 
@@ -444,7 +445,6 @@ xa0H4B {23 : 1 , }
 xa0Montr {23 : 2 , } 
 xa0QC {23 : 1 , } 
 xa0include {23 : 1 , } 
-xa0info {23 : 1 , } 
 xa0initiatives {23 : 1 , } 
 xa0newsletter {23 : 1 , } 
 xe7ais {23 : 1 , } 

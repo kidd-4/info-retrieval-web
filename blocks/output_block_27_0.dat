@@ -25,10 +25,12 @@
 3648 {27 : 1 , } 
 3691 {27 : 1 , } 
 4 {27 : 1 , } 
+514 {27 : 2 , } 
 5th {27 : 1 , } 
 75 {27 : 1 , } 
 8 {27 : 1 , } 
 848 {27 : 2 , } 
+9 {27 : 1 , } 
 9000px {27 : 1 , } 
 About {27 : 2 , } 
 Agreement {27 : 3 , } 
@@ -57,6 +59,7 @@ Committees {27 : 1 , }
 Concordia {27 : 1 , } 
 Concordian {27 : 1 , } 
 Contact {27 : 2 , } 
+Copyright {27 : 1 , } 
 Courses {27 : 1 , } 
 Coverage {27 : 1 , } 
 Deadlines {27 : 1 , } 
@@ -94,7 +97,10 @@ Mandate {27 : 1 , }
 March {27 : 6 , } 
 May {27 : 5 , } 
 Media {27 : 1 , } 
+Members {27 : 1 , } 
+Monday {27 : 1 , } 
 Month {27 : 1 , } 
+Montreal {27 : 1 , } 
 Moure {27 : 1 , } 
 Multi {27 : 1 , } 
 Negotiations {27 : 1 , } 
@@ -242,12 +248,6 @@ menu {27 : 2 , }
 menuClose {27 : 1 , } 
 more {27 : 2 , } 
 must {27 : 2 , } 
-n {27 : 20 , } 
-n514 {27 : 2 , } 
-n9 {27 : 1 , } 
-nCopyright {27 : 1 , } 
-nMonday {27 : 1 , } 
-nMontreal {27 : 1 , } 
 none {27 : 3 , } 
 objective {27 : 1 , } 
 of {27 : 13 , } 
@@ -275,6 +275,7 @@ rel {27 : 1 , }
 related {27 : 1 , } 
 research {27 : 2 , } 
 right {27 : 1 , } 
+s {27 : 2 , } 
 saveState {27 : 1 , } 
 scrolling {27 : 1 , } 
 seniority {27 : 1 , } 
@@ -288,7 +289,6 @@ some {27 : 1 , }
 special {27 : 1 , } 
 speed {27 : 2 , } 
 supports {27 : 1 , } 
-t {27 : 2 , } 
 teaching {27 : 1 , } 
 that {27 : 1 , } 
 the {27 : 7 , } 
@@ -301,8 +301,6 @@ top {27 : 1 , }
 travel {27 : 1 , } 
 true {27 : 4 , } 
 two {27 : 1 , } 
-u2013 {27 : 3 , } 
-u2019s {27 : 2 , } 
 undertake {27 : 1 , } 
 vertical {27 : 1 , } 
 when {27 : 1 , } 
@@ -313,8 +311,3 @@ wins {27 : 1 , }
 with {27 : 1 , } 
 work {27 : 1 , } 
 wp {27 : 1 , } 
-xa0 {27 : 1 , } 
-xa0Members {27 : 1 , } 
-xa9 {27 : 1 , } 
-xab {27 : 1 , } 
-xbb {27 : 4 , } 

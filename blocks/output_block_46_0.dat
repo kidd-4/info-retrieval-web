@@ -22,10 +22,12 @@
 3691 {46 : 1 , } 
 4 {46 : 1 , } 
 4pm {46 : 2 , } 
+514 {46 : 2 , } 
 5th {46 : 1 , } 
 75 {46 : 1 , } 
 8 {46 : 1 , } 
 848 {46 : 2 , } 
+9 {46 : 1 , } 
 9000px {46 : 1 , } 
 ABOUT {46 : 2 , } 
 ADRIAN {46 : 2 , } 
@@ -57,6 +59,7 @@ Committees {46 : 1 , }
 Concordia {46 : 1 , } 
 Concordian {46 : 1 , } 
 Contact {46 : 2 , } 
+Copyright {46 : 1 , } 
 Courses {46 : 1 , } 
 Coverage {46 : 1 , } 
 Deadlines {46 : 1 , } 
@@ -98,7 +101,9 @@ Mandate {46 : 1 , }
 March {46 : 6 , } 
 May {46 : 5 , } 
 Media {46 : 1 , } 
+Monday {46 : 1 , } 
 Month {46 : 1 , } 
+Montreal {46 : 1 , } 
 Moure {46 : 1 , } 
 Multi {46 : 1 , } 
 NORVID {46 : 2 , } 
@@ -152,6 +157,7 @@ TIME {46 : 2 , }
 Teaching {46 : 1 , } 
 Telephone {46 : 1 , } 
 The {46 : 1 , } 
+This {46 : 1 , } 
 Thursday {46 : 1 , } 
 Travel {46 : 1 , } 
 Us {46 : 1 , } 
@@ -218,13 +224,6 @@ maxWidth {46 : 1 , }
 menu {46 : 2 , } 
 menuClose {46 : 1 , } 
 more {46 : 1 , } 
-n {46 : 12 , } 
-n514 {46 : 2 , } 
-n9 {46 : 1 , } 
-nCopyright {46 : 1 , } 
-nMonday {46 : 1 , } 
-nMontreal {46 : 1 , } 
-nThis {46 : 1 , } 
 none {46 : 3 , } 
 of {46 : 4 , } 
 on {46 : 3 , } 
@@ -245,15 +244,11 @@ showCount {46 : 1 , }
 site {46 : 2 , } 
 smiley {46 : 1 , } 
 speed {46 : 2 , } 
-t {46 : 2 , } 
 the {46 : 1 , } 
 title {46 : 1 , } 
 to {46 : 4 , } 
 top {46 : 1 , } 
 true {46 : 4 , } 
-u2013 {46 : 3 , } 
-u2190 {46 : 2 , } 
-u2192 {46 : 2 , } 
 vertical {46 : 1 , } 
 was {46 : 1 , } 
 width {46 : 1 , } 
@@ -261,4 +256,3 @@ wins {46 : 1 , }
 with {46 : 2 , } 
 wp {46 : 1 , } 
 www {46 : 1 , } 
-xa9 {46 : 1 , } 

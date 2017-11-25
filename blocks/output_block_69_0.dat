@@ -64,6 +64,7 @@
 52 {69 : 1 , } 
 6 {69 : 2 , } 
 7 {69 : 2 , } 
+7141 {69 : 1 , } 
 8 {69 : 2 , } 
 800 {69 : 1 , } 
 848 {69 : 3 , } 
@@ -103,6 +104,7 @@ CUFA {69 : 3 , }
 Career {69 : 1 , } 
 Certification {69 : 1 , } 
 Changes {69 : 1 , } 
+Chantal {69 : 1 , } 
 Classifieds {69 : 1 , } 
 Closure {69 : 1 , } 
 Collective {69 : 4 , } 
@@ -152,6 +154,7 @@ Freedom {69 : 1 , }
 Frequently {69 : 1 , } 
 From {69 : 1 , } 
 General {69 : 1 , } 
+Genevieve {69 : 1 , } 
 Governance {69 : 1 , } 
 Grids {69 : 2 , } 
 Grievance {69 : 1 , } 
@@ -159,6 +162,7 @@ H4B {69 : 1 , }
 Hall {69 : 1 , } 
 Harassment {69 : 2 , } 
 Heads {69 : 1 , } 
+Hingston {69 : 1 , } 
 Holidays {69 : 1 , } 
 Incorporation {69 : 1 , } 
 Information {69 : 2 , } 
@@ -189,6 +193,7 @@ Mergers {69 : 1 , }
 Minutes {69 : 1 , } 
 Miscellaneous {69 : 1 , } 
 Misconduct {69 : 1 , } 
+Montreal {69 : 1 , } 
 Name {69 : 2 , } 
 Negotiation {69 : 1 , } 
 News {69 : 1 , } 
@@ -282,7 +287,7 @@ b {69 : 8 , }
 bohbot {69 : 1 , } 
 c {69 : 1 , } 
 ca {69 : 3 , } 
-changes {69 : 44 , } 
+changes {69 : 45 , } 
 class {69 : 1 , } 
 concerning {69 : 1 , } 
 concordia {69 : 3 , } 
@@ -290,7 +295,7 @@ controlNav {69 : 1 , }
 cufa {69 : 1 , } 
 developer {69 : 1 , } 
 directionNav {69 : 1 , } 
-document {69 : 1 , } 
+document {69 : 3 , } 
 e {69 : 1 , } 
 eConcordia {69 : 1 , } 
 fade {69 : 1 , } 
@@ -316,17 +321,8 @@ load {69 : 1 , }
 m {69 : 3 , } 
 ma {69 : 1 , } 
 main {69 : 1 , } 
-n {69 : 546 , } 
-n7141 {69 : 1 , } 
-nChantal {69 : 1 , } 
-nGenevieve {69 : 1 , } 
-nHingston {69 : 1 , } 
-nMontreal {69 : 1 , } 
-nchanges {69 : 1 , } 
-ndocument {69 : 2 , } 
 networking {69 : 1 , } 
 news {69 : 1 , } 
-nvar {69 : 6 , } 
 o {69 : 3 , } 
 of {69 : 18 , } 
 policy {69 : 1 , } 
@@ -336,18 +332,13 @@ ready {69 : 1 , }
 responsibilities {69 : 1 , } 
 robichaud {69 : 1 , } 
 slideshowSpeed {69 : 1 , } 
-t {69 : 126 , } 
 the {69 : 7 , } 
 to {69 : 4 , } 
 true {69 : 1 , } 
-tvar {69 : 3 , } 
-u2013 {69 : 2 , } 
 updated {69 : 1 , } 
+var {69 : 9 , } 
 website {69 : 1 , } 
 window {69 : 1 , } 
 write {69 : 2 , } 
 x3984 {69 : 1 , } 
 x3999 {69 : 1 , } 
-xa0 {69 : 1 , } 
-xa9 {69 : 1 , } 
-xbb {69 : 2 , } 

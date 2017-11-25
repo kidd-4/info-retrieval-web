@@ -199,6 +199,7 @@ colors {3 : 1 , }
 com {3 : 2 , } 
 comment {3 : 2 , } 
 committed {3 : 1 , } 
+contactus {3 : 1 , } 
 cookieDomain {3 : 2 , } 
 create {3 : 2 , } 
 createElement {3 : 2 , } 
@@ -278,7 +279,7 @@ min {3 : 5 , }
 mobile_navigation {3 : 2 , } 
 modules {3 : 26 , } 
 more {3 : 2 , } 
-n {3 : 537 , } 
+n {3 : 398 , } 
 nCLINIC {3 : 1 , } 
 nJOB {3 : 1 , } 
 new {3 : 2 , } 
@@ -334,7 +335,6 @@ style {3 : 2 , }
 support {3 : 1 , } 
 sustainable {3 : 1 , } 
 system {3 : 8 , } 
-t {3 : 215 , } 
 territoire {3 : 1 , } 
 territory {3 : 1 , } 
 the {3 : 4 , } 
@@ -364,7 +364,7 @@ workflow_admin_ui {3 : 2 , }
 write {3 : 2 , } 
 www {3 : 2 , } 
 x3C {3 : 2 , } 
-xa0 {3 : 4 , } 
+xa0 {3 : 5 , } 
 xa01455 {3 : 1 , } 
 xa0514 {3 : 1 , } 
 xa07141 {3 : 1 , } 
@@ -375,7 +375,6 @@ xa0Montr {3 : 2 , }
 xa0QC {3 : 1 , } 
 xa0by {3 : 1 , } 
 xa0events {3 : 1 , } 
-xa0info {3 : 1 , } 
 xe1 {3 : 2 , } 
 xe7ais {3 : 1 , } 
 xe9 {3 : 3 , } 

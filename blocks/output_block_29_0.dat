@@ -19,10 +19,12 @@
 3648 {29 : 1 , } 
 3691 {29 : 1 , } 
 4 {29 : 1 , } 
+514 {29 : 2 , } 
 5th {29 : 1 , } 
 75 {29 : 1 , } 
 8 {29 : 1 , } 
 848 {29 : 2 , } 
+9 {29 : 1 , } 
 9000px {29 : 1 , } 
 About {29 : 2 , } 
 Agreement {29 : 2 , } 
@@ -52,6 +54,7 @@ Committees {29 : 1 , }
 Concordia {29 : 3 , } 
 Concordian {29 : 1 , } 
 Contact {29 : 2 , } 
+Copyright {29 : 1 , } 
 Courses {29 : 1 , } 
 Coverage {29 : 1 , } 
 Deadlines {29 : 1 , } 
@@ -69,6 +72,7 @@ Facsimile {29 : 1 , }
 February {29 : 6 , } 
 Form {29 : 3 , } 
 Forms {29 : 1 , } 
+Formulaire {29 : 1 , } 
 Forster {29 : 1 , } 
 Grant {29 : 1 , } 
 Grants {29 : 1 , } 
@@ -91,7 +95,9 @@ Mandate {29 : 1 , }
 March {29 : 6 , } 
 May {29 : 5 , } 
 Media {29 : 1 , } 
+Monday {29 : 1 , } 
 Month {29 : 1 , } 
+Montreal {29 : 1 , } 
 Moure {29 : 1 , } 
 Multi {29 : 1 , } 
 Negotiations {29 : 1 , } 
@@ -102,7 +108,7 @@ October {29 : 6 , }
 Office {29 : 2 , } 
 Official {29 : 1 , } 
 PD {29 : 2 , } 
-Part {29 : 1 , } 
+Part {29 : 2 , } 
 Pension {29 : 1 , } 
 Pensions {29 : 1 , } 
 Planning {29 : 1 , } 
@@ -164,6 +170,7 @@ border {29 : 1 , }
 bottom {29 : 1 , } 
 box {29 : 1 , } 
 carefully {29 : 1 , } 
+charger {29 : 1 , } 
 classDisable {29 : 1 , } 
 classExpand {29 : 1 , } 
 click {29 : 1 , } 
@@ -185,6 +192,7 @@ disableLink {29 : 1 , }
 display {29 : 1 , } 
 document {29 : 2 , } 
 emoji {29 : 1 , } 
+enseignement {29 : 1 , } 
 escKey {29 : 1 , } 
 eventType {29 : 1 , } 
 false {29 : 10 , } 
@@ -210,6 +218,7 @@ inline {29 : 1 , }
 is {29 : 1 , } 
 item {29 : 2 , } 
 jQuery {29 : 3 , } 
+l {29 : 1 , } 
 left {29 : 2 , } 
 lightbox {29 : 1 , } 
 loop {29 : 1 , } 
@@ -217,14 +226,6 @@ margin {29 : 1 , }
 maxWidth {29 : 1 , } 
 menu {29 : 2 , } 
 menuClose {29 : 1 , } 
-n {29 : 22 , } 
-n514 {29 : 2 , } 
-n9 {29 : 1 , } 
-nCopyright {29 : 1 , } 
-nFormulaire {29 : 1 , } 
-nMonday {29 : 1 , } 
-nMontreal {29 : 1 , } 
-nPart {29 : 1 , } 
 none {29 : 3 , } 
 of {29 : 4 , } 
 opacity {29 : 1 , } 
@@ -247,7 +248,6 @@ smiley {29 : 1 , }
 speed {29 : 2 , } 
 stipulated {29 : 1 , } 
 submitted {29 : 1 , } 
-t {29 : 2 , } 
 temps {29 : 1 , } 
 that {29 : 1 , } 
 the {29 : 4 , } 
@@ -257,19 +257,10 @@ title {29 : 1 , }
 to {29 : 3 , } 
 top {29 : 1 , } 
 true {29 : 4 , } 
-u2013 {29 : 3 , } 
-u2019enseignement {29 : 1 , } 
 us {29 : 1 , } 
 vertical {29 : 1 , } 
 width {29 : 1 , } 
 wins {29 : 1 , } 
 within {29 : 1 , } 
 wp {29 : 1 , } 
-xa0 {29 : 1 , } 
-xa9 {29 : 1 , } 
-xab {29 : 1 , } 
-xe0 {29 : 1 , } 
-xe9 {29 : 1 , } 
-xe9charger {29 : 1 , } 
-xe9l {29 : 1 , } 
 you {29 : 1 , } 

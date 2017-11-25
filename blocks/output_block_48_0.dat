@@ -27,12 +27,14 @@
 4 {48 : 1 , } 
 4pm {48 : 2 , } 
 5 {48 : 2 , } 
+514 {48 : 2 , } 
 5th {48 : 1 , } 
 7 {48 : 2 , } 
 715 {48 : 1 , } 
 75 {48 : 1 , } 
 8 {48 : 1 , } 
 848 {48 : 2 , } 
+9 {48 : 1 , } 
 9000px {48 : 1 , } 
 A {48 : 1 , } 
 ADRIAN {48 : 2 , } 
@@ -67,6 +69,7 @@ Committees {48 : 1 , }
 Concordia {48 : 1 , } 
 Concordian {48 : 1 , } 
 Contact {48 : 2 , } 
+Copyright {48 : 1 , } 
 Courses {48 : 1 , } 
 Coverage {48 : 1 , } 
 Deadlines {48 : 1 , } 
@@ -113,7 +116,9 @@ Mandate {48 : 1 , }
 March {48 : 6 , } 
 May {48 : 5 , } 
 Media {48 : 1 , } 
+Monday {48 : 1 , } 
 Month {48 : 1 , } 
+Montreal {48 : 1 , } 
 Moure {48 : 1 , } 
 Muck {48 : 2 , } 
 Multi {48 : 1 , } 
@@ -174,6 +179,7 @@ Teaching {48 : 1 , }
 Telephone {48 : 1 , } 
 The {48 : 2 , } 
 There {48 : 1 , } 
+This {48 : 1 , } 
 Thursday {48 : 1 , } 
 Tommy {48 : 1 , } 
 Travel {48 : 1 , } 
@@ -271,13 +277,6 @@ menu {48 : 2 , }
 menuClose {48 : 1 , } 
 misconstrued {48 : 1 , } 
 molasses {48 : 1 , } 
-n {48 : 12 , } 
-n514 {48 : 2 , } 
-n9 {48 : 1 , } 
-nCopyright {48 : 1 , } 
-nMonday {48 : 1 , } 
-nMontreal {48 : 1 , } 
-nThis {48 : 1 , } 
 no {48 : 1 , } 
 none {48 : 3 , } 
 not {48 : 2 , } 
@@ -302,6 +301,7 @@ rel {48 : 1 , }
 resonant {48 : 1 , } 
 right {48 : 1 , } 
 rock {48 : 1 , } 
+s {48 : 2 , } 
 saveState {48 : 1 , } 
 scrolling {48 : 1 , } 
 shadow {48 : 1 , } 
@@ -313,7 +313,6 @@ sneak {48 : 1 , }
 sonic {48 : 1 , } 
 speed {48 : 2 , } 
 surfaces {48 : 1 , } 
-t {48 : 2 , } 
 tartan {48 : 1 , } 
 the {48 : 4 , } 
 there {48 : 1 , } 
@@ -323,10 +322,6 @@ toast {48 : 1 , }
 too {48 : 1 , } 
 top {48 : 1 , } 
 true {48 : 4 , } 
-u2013 {48 : 5 , } 
-u2019s {48 : 2 , } 
-u2190 {48 : 2 , } 
-u2192 {48 : 2 , } 
 varieties {48 : 1 , } 
 various {48 : 1 , } 
 vertical {48 : 1 , } 
@@ -340,6 +335,5 @@ will {48 : 1 , }
 wins {48 : 1 , } 
 with {48 : 3 , } 
 wp {48 : 1 , } 
-xa9 {48 : 1 , } 
 yard {48 : 1 , } 
 your {48 : 1 , } 
